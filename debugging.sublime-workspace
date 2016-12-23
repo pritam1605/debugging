@@ -1,0 +1,1049 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"slow",
+				"slower"
+			],
+			[
+				"for",
+				"for\t(php.ini)"
+			],
+			[
+				"xdebug_get",
+				"xdebug_get_declared_vars"
+			],
+			[
+				"html",
+				"html_errors\t(php.ini)"
+			],
+			[
+				"ini_se",
+				"ini_set"
+			],
+			[
+				"fun",
+				"function\t(php.ini)"
+			],
+			[
+				"register",
+				"register_shutdown_function"
+			],
+			[
+				"E_USE",
+				"E_USER_ERROR\t(php.ini)"
+			],
+			[
+				"E_US",
+				"E_USER_WARNING\t(php.ini)"
+			],
+			[
+				"trigg",
+				"trigger_error"
+			],
+			[
+				"E_U",
+				"E_USER_NOTICE\t(php.ini)"
+			],
+			[
+				"require",
+				"require"
+			],
+			[
+				"ini_get",
+				"ini_get"
+			],
+			[
+				"memor",
+				"memory_limit\t(php.ini)"
+			],
+			[
+				"mem",
+				"memory-limit\t(php.ini)"
+			],
+			[
+				"ini_set",
+				"ini_set('error_reporting"
+			],
+			[
+				"err",
+				"error_log\t(php.ini)"
+			],
+			[
+				"log",
+				"log_errors_max_len\t(php.ini)"
+			],
+			[
+				"eror",
+				"error_reporting"
+			],
+			[
+				"E_",
+				"E_STRICT\t(php.ini)"
+			],
+			[
+				"error_rep",
+				"error_reporting"
+			],
+			[
+				"error",
+				"error_reporting\t(php.ini)"
+			],
+			[
+				"__",
+				"__NAMESPACE__"
+			],
+			[
+				"o",
+				"operations"
+			],
+			[
+				"cal",
+				"calculate"
+			],
+			[
+				"op",
+				"operation"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"setOp",
+				"setOperations"
+			],
+			[
+				"add",
+				"addition"
+			],
+			[
+				"setO",
+				"setOperations\t(CalculatorTest.php)"
+			],
+			[
+				"asserti",
+				"assertInstanceOf"
+			],
+			[
+				"ad",
+				"addition2"
+			],
+			[
+				"set",
+				"setOperation"
+			],
+			[
+				"oper",
+				"operations"
+			],
+			[
+				"ope",
+				"operations"
+			],
+			[
+				"array_fil",
+				"array_filter"
+			],
+			[
+				"Op",
+				"OperationInterface\t(Addition.php)"
+			],
+			[
+				"abs",
+				"abstract"
+			],
+			[
+				"N",
+				"NoOperandsException\t(AdditionTest.php)"
+			],
+			[
+				"No",
+				"NoOperandsException"
+			],
+			[
+				"PHPUNIT",
+				"PHPUnit_Framework_TestCase"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"coll",
+				"collection"
+			],
+			[
+				"assertIns",
+				"assertInstanceOf"
+			],
+			[
+				"array_mer",
+				"array_merge"
+			],
+			[
+				"arraymer",
+				"array_merge"
+			],
+			[
+				"assertCou",
+				"assertCount"
+			],
+			[
+				"colle",
+				"collection1"
+			],
+			[
+				"Array",
+				"ArrayIterator\t(CollectionTest.php)"
+			],
+			[
+				"assertI",
+				"assertInstanceOf"
+			],
+			[
+				"IteratorAggre",
+				"IteratorAggregate"
+			],
+			[
+				"assert",
+				"assertEquals"
+			],
+			[
+				"PHPUnit_",
+				"PHPUnit_Framework_TestCase"
+			],
+			[
+				"assertArrayha",
+				"assertArrayNotHasKey"
+			],
+			[
+				"ema",
+				"email"
+			],
+			[
+				"fu",
+				"fullname"
+			],
+			[
+				"email",
+				"emailVariables"
+			],
+			[
+				"assertArr",
+				"assertArrayHasKey"
+			],
+			[
+				"emai",
+				"emailVariables"
+			],
+			[
+				"assertAr",
+				"assertArrayHasKey"
+			],
+			[
+				"publ",
+				"public"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"ass",
+				"assertTrue"
+			],
+			[
+				"PHP",
+				"PHPUnit_Framework_TestCase"
+			],
+			[
+				"lo",
+				"logout"
+			],
+			[
+				"arr",
+				"array\t(routes.php)"
+			],
+			[
+				"PASSWORD",
+				"PASSWORD_BCRYPT"
+			],
+			[
+				"Hash",
+				"Hash::make\tHash the given value."
+			],
+			[
+				"re",
+				"register"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ex",
+				"exhibition_date"
+			],
+			[
+				"prit",
+				"print_r"
+			],
+			[
+				"pub",
+				"pub\tPHP: public class method declaration"
+			],
+			[
+				"PD",
+				"PDO"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"var",
+				"var_dump"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1440,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "debugging.sublime-project",
+			"settings":
+			{
+				"buffer_size": 162,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/etc/php/7.0/apache2/php.ini",
+			"settings":
+			{
+				"buffer_size": 69684,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 112.0,
+		"last_filter": "remove",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"xdebug",
+				"Set Syntax: Xdebug"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"phpintel",
+				"PHPIntel: Abort Scan"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/debugging"
+	],
+	"file_history":
+	[
+		"/var/www/html/debugging/php_errors.log",
+		"/etc/php/7.0/cli/php.ini",
+		"/var/www/html/debugging/index.php",
+		"/etc/php/7.0/apache2/php.ini",
+		"/var/www/html/php/index.php",
+		"/var/www/html/debugging/php_errors.txt",
+		"/var/www/html/debugging/week 7.txt",
+		"/home/pritambohra/Desktop/Accounts.txt",
+		"/var/www/html/phpunit/phpunit.xml",
+		"/var/www/html/php/phpinfo.php",
+		"/var/www/html/phpunit/namespace/test",
+		"/var/www/html/phpunit/namespace/file2.php",
+		"/var/www/html/phpunit/namespace/file1.php",
+		"/var/www/html/phpunit/app/Calculator/Division.php",
+		"/var/www/html/phpunit/tests/unit/Calculator/DivisioTest.php",
+		"/var/www/html/phpunit/tests/unit/Calculator/AdditionTest.php",
+		"/var/www/html/phpunit/app/Calculator/Addition.php",
+		"/var/www/html/phpunit/app/Calculator/OperationAbstract.php",
+		"/var/www/html/phpunit/app/Calculator/Exception/NoOperandsException.php",
+		"/var/www/html/phpunit/app/Calculator/OperationInterface.php",
+		"/var/www/html/php/json.php",
+		"/var/www/html/phpunit/app/Support/Collection.php",
+		"/var/www/html/phpunit/tests/unit/CollectionTest.php",
+		"/var/www/html/phpunit/app/Models/User.php",
+		"/var/www/html/phpunit/tests/unit/UserTest.php",
+		"/var/www/html/phpunit/tests/unit/SampleTest.php",
+		"/home/pritambohra/New files from gnome ubuntu 14.04/web_server/kabaddifantasyleague.in/kabaddifantasyleague/app/pkflVendor/mail/mailer.php",
+		"/var/www/html/phpunit/composer.json",
+		"/home/pritambohra/New files from gnome ubuntu 14.04/web_server/kabaddifantasyleague.in/kabaddifantasyleague/app/pkflVendor/mail/message.php",
+		"/home/pritambohra/New files from gnome ubuntu 14.04/web_server/kabaddifantasyleague.in/kabaddifantasyleague/app/routes/auth/activate.php",
+		"/home/pritambohra/New files from gnome ubuntu 14.04/web_server/kabaddifantasyleague.in/kabaddifantasyleague/app/routes/auth/login.php",
+		"/home/pritambohra/New files from gnome ubuntu 14.04/web_server/kabaddifantasyleague.in/kabaddifantasyleague/app/routes/auth/register.php",
+		"/var/www/html/phpunit/vendor/phpunit/phpunit/src/Framework/TestCase.php",
+		"/var/www/learn.ln/bootstrap/autoload.php",
+		"/var/www/learn.ln/phpunit.xml",
+		"/var/www/html/php/test/composer.json",
+		"/var/www/learn.ln/composer.json",
+		"/var/www/html/php/test/composer.lock",
+		"/home/pritambohra/0.01 Unit Testing with PHPUnit(1h 14m)/Exercise Files/Ch02/02_01/composer.json",
+		"/home/pritambohra/Downloads/emojis.php",
+		"/home/pritambohra/.cache/.fr-lj83gC/README",
+		"/home/pritambohra/.cache/.fr-0Uk82E/manifest.json",
+		"/var/www/learn.ln/app/models/User.php",
+		"/var/www/learn.ln/app/views/thanks.blade.php",
+		"/var/www/learn.ln/app/views/logout.blade.php",
+		"/var/www/learn.ln/app/views/login.blade.php",
+		"/var/www/learn.ln/app/views/register.blade.php",
+		"/home/pritambohra/1 Up and Running with Laravel/Exercice Files/Ex_Files_U_R_Laravel/Exercise Files/Chapter 4/04_04/spotlight.blade.php",
+		"/var/www/html/php/crypt.php",
+		"/var/www/learn.ln/app/storage/logs/laravel.log",
+		"/var/www/learn.ln/vendor/phpseclib/phpseclib/phpseclib/Crypt/Hash.php",
+		"/var/www/learn.ln/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php",
+		"/var/www/learn.ln/vendor/laravel/framework/src/Illuminate/Database/Console/Migrations/MigrateMakeCommand.php",
+		"/var/www/learn.ln/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php",
+		"/var/www/learn.ln/app/views/signup.blade.php",
+		"/var/www/learn.ln/app/views/hello.blade.php",
+		"/home/pritambohra/1 Up and Running with Laravel/Exercice Files/Ex_Files_U_R_Laravel/Exercise Files/Chapter 4/04_02/register.blade.php",
+		"/var/www/learn.ln/app/database/migrations/2016_11_19_202746_create_user.php",
+		"/var/www/learn.ln/.git/config",
+		"/etc/bluetooth/main.conf",
+		"/home/pritambohra/.ssh/id_rsa.pub",
+		"/home/pritambohra/1 Up and Running with Laravel/Exercice Files/Ex_Files_U_R_Laravel/Exercise Files/Chapter 3/03_03/thanks.blade.php",
+		"/home/pritambohra/1 Up and Running with Laravel/Exercice Files/Ex_Files_U_R_Laravel/Exercise Files/Chapter 3/03_03/signup.blade.php",
+		"/var/www/learn.ln/app/models/Painting.php",
+		"/var/www/learn.ln/app/database/migrations/2016_11_17_175313_create_paintings.php",
+		"/var/www/learn.ln/app/config/database.php",
+		"/var/www/learn.ln/app/database/migrations/2016_11_17_172924_create_art.php",
+		"/var/www/learn.ln/app/database/migrations/2016_11_17_060450_create_art.php",
+		"/var/www/html/php/test.php",
+		"/var/www/learn.ln/public/css/main.css",
+		"/var/www/learn.ln/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php",
+		"/var/www/learn.ln/app/routes.php",
+		"/var/www/learn.ln/app/views/hello.php",
+		"/home/pritambohra/1 Up and Running with Laravel/Exercice Files/Ex_Files_U_R_Laravel/Exercise Files/Chapter 2/02_02/main.css",
+		"/home/pritambohra/New files from gnome ubuntu 14.04/web_server/kabaddifantasyleague.in/kabaddifantasyleague/app/routes/home.php",
+		"/etc/apache2/sites-available/learn.ln.conf",
+		"/etc/apache2/apache2.conf",
+		"/var/www/learn.ln/public/.htaccess",
+		"/var/www/learn.ln/public/robots.txt",
+		"/var/www/learn.ln/app/views/about.php",
+		"/var/www/learn.ln/public/firstapp/composer.json",
+		"/home/pritambohra/.composer/composer.json",
+		"/etc/hosts",
+		"/home/pritambohra/ruby/first.rb",
+		"/home/pritambohra/ruby/notes.txt",
+		"/home/pritambohra/Desktop/doubts.txt",
+		"/home/pritambohra/Desktop/Submit a 4 page research paper on the RFID standar.txt",
+		"/home/pritambohra/Desktop/DB 7060.txt",
+		"/home/pritambohra/Dropbox/Wilmington University/IST 7060/db.txt",
+		"/home/pritambohra/Desktop/RFID Assignment.txt",
+		"/home/pritambohra/Desktop/RFID.txt",
+		"/home/pritambohra/Downloads/PHP with Laravel for beginners - Become a Master in Laravel/PHP with Laravel for beginners/1 - The first steps/routes.php",
+		"/home/pritambohra/Desktop/test.rb",
+		"/etc/apache2/conf-available/php7.0-fpm.conf"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"D",
+			");\n",
+			"public",
+			"load",
+			"error_log = ",
+			"display_error",
+			"error_reporting = ",
+			"error_reporting =",
+			"error_reporting",
+			"error_reporting =",
+			"-",
+			"var_dump",
+			"$user",
+			"\t\t\t\n",
+			"class PHPUnit_Framework_TestCase",
+			"logout",
+			"asset",
+			"class Facade",
+			"Class Hash",
+			"FORM",
+			")",
+			"timezone",
+			"date",
+			"Oldtable",
+			"table",
+			"newTable",
+			"\t\t$",
+			"debug ",
+			"debugging",
+			"pdo",
+			"Schema",
+			"DirectoryIndex",
+			"  /12",
+			"  /13",
+			"/",
+			"  /12",
+			"  /13",
+			"  /12",
+			"/",
+			"13",
+			"  /13",
+			"  /12",
+			"/",
+			"-16",
+			"/",
+			"12"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/16",
+			"/17",
+			"/16",
+			"/17",
+			"/16"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1111,
+								1111
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/php-grammar/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 588.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "debugging.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										160,
+										161
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/etc/php/7.0/apache2/php.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 69684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69684,
+								69684
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 26152.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 123.0
+	},
+	"pinned_build_system": "",
+	"project": "debugging.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hash",
+				"vendor/phpseclib/phpseclib/phpseclib/Crypt/Hash.php"
+			],
+			[
+				"functionmake",
+				"vendor/laravel/framework/src/Illuminate/Database/Console/Migrations/MigrateMakeCommand.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"15":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"19":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"25":
+				{
+					"group": 0,
+					"index": 1
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
